@@ -1,1 +1,1 @@
-Homepage for dninstalls.com
+Homepage for http://dninstalls.com/
